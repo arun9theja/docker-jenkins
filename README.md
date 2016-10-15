@@ -35,12 +35,12 @@ docker-compose up -d
 
 ## History
 
-TODO: Write history
+16 Oct 2016 - 1.0
 
-## Credits
+## Author
 
-TODO: Write credits
+Phillip Bailey - <phillip@bailey.st>
 
 ## License
 
-TODO: Write license
+MIT License
