@@ -15,7 +15,7 @@ docker-compose up -d
 
 ### Requirements
 
-Docker Version 1.12.2
+Docker Version >= 1.12.2
 
 ### Setup
 
