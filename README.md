@@ -23,7 +23,22 @@ git clone git@github.com:p0bailey/docker-jenkins.git
 
 ## Usage
 
+```
 docker-compose up -d
+```
+
+Grab Jenkins initial admin password.
+```
+cat jenkins/secrets/initialAdminPassword
+```
+
+Point the browser to:
+
+```
+127.0.0.1:8080
+```
+
+Go and set up Jenkins.
 
 ## Contributing
 
